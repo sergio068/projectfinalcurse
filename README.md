@@ -8,5 +8,3 @@ Este proyecto es un ejemplo para demostrar cómo crear y gestionar un repositori
 2. Navega al directorio del proyecto: `cd nombre-del-proyecto`
 3. Sigue las instrucciones específicas de instalación y uso proporcionadas en este archivo.
 
-## Uso
-Explica cómo utilizar tu proyecto con ejemplos y descripciones detalladas.
